@@ -1,0 +1,9 @@
+application/logs/*
+!application/logs/index.html
+uploads/*
+!uploads/index.html
+/-/
+.git/
+.idea/
+.vscode/
+*.log

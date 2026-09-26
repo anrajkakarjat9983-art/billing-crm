@@ -1,0 +1,8 @@
+.git
+.gitignore
+/-
+/uploads/*
+!/uploads/index.html
+/application/logs/*
+!/application/logs/index.html
+*.log
